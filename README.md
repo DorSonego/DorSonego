@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-DorSonego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dor-Sonego)](https://www.linkedin.com/in/Dor-Sonego) [![Gmail Badge](https://img.shields.io/badge/-dorsonego123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=dorsonego123@gmail.com)](dorsonego123@gmail.com)  <img src="https://komarev.com/ghpvc/?username=DorSonego" alt="DorSonego" /> </p>
 
-DorSonego
-Here are some ideas to get you started:
 
  🌱 I’m currently learning **JavaScript, Html, CSS, Node, React, Java, Python**
 
